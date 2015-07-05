@@ -1,7 +1,7 @@
 // jshint esnext: true
 import browsers2sauce from './index';
 import browserslist from 'browserslist';
-import { equal, deepEqual } from 'assert';
+import { deepEqual } from 'assert';
 
 describe('Browserslist Saucelabs', () => {
     it('parses browserslist input, outputs capabilities', () => {
@@ -11,16 +11,18 @@ describe('Browserslist Saucelabs', () => {
                 {
                     browserName: 'internet explorer',
                     version: '9',
-                    platform: void 0
+                    platform: 'Windows 7'
                 },
                 {
                     browserName: 'iphone',
-                    version: '8.3',
-                    platform: void 0
+                    version: '8.1',
+                    platform: 'OS X 10.10',
+                    deviceName: 'iphone'
                 }
             ]
         );
     });
+
     it('outputs all available platforms for a browser if needed', () => {
         deepEqual(
             browsers2sauce({ browsers: browserslist(['ie 11']), allPlatforms: true }),
@@ -28,13 +30,13 @@ describe('Browserslist Saucelabs', () => {
                 {
                     browserName: 'internet explorer',
                     version: '11',
-                    platform: 'Windows 7'
+                    platform: 'Windows 8.1'
                 },
                 {
                     browserName: 'internet explorer',
                     version: '11',
-                    platform: 'Windows 8.1'
-                }
+                    platform: 'Windows 7'
+                },
             ]
         );
     });
