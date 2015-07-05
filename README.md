@@ -2,4 +2,4 @@ Browserslist Saucelabs
 ======================
 
 Converter from browserslist to saucelabs desired capabilities.
-Opinionated.
+Very opinionated, in some places also very silly.
