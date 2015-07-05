@@ -100,5 +100,65 @@ describe('Browserslist Saucelabs', () => {
                 },
             ]
         );
+
+        deepEqual(
+            browsers2sauce({ browsers: browserslist(['android 4.2']) }),
+            [
+                {
+                    browserName: 'Android',
+                    version: '4.2',
+                    platform: 'Linux',
+                    deviceName: 'Android Emulator'
+                },
+            ]
+        );
+
+        deepEqual(
+            browsers2sauce({ browsers: browserslist(['android 4.2']), allPlatforms: true }),
+            [
+                {
+                    browserName: 'Android',
+                    version: '4.2',
+                    platform: 'Linux',
+                    deviceName: 'Android Emulator'
+                },
+                {
+                    browserName: "Android",
+                    deviceName: "Samsung Galaxy Tab 3 Emulator",
+                    platform: "Linux",
+                    version: "4.2",
+                },
+                {
+                    browserName: "Android",
+                    deviceName: "LG Nexus 4 Emulator",
+                    platform: "Linux",
+                    version: "4.2",
+                },
+                {
+                    browserName: "Android",
+                    deviceName: "Samsung Galaxy Nexus Emulator",
+                    platform: "Linux",
+                    version: "4.2",
+                },
+                {
+                    browserName: "Android",
+                    deviceName: "Samsung Galaxy S3 Emulator",
+                    platform: "Linux",
+                    version: "4.2"
+                },
+                {
+                    browserName: "Android",
+                    deviceName: "Samsung Galaxy S4 Emulator",
+                    platform: "Linux",
+                    version: "4.2",
+                },
+                {
+                    browserName: "Android",
+                    deviceName: "Google Nexus 7C Emulator",
+                    platform: "Linux",
+                    version: "4.2"
+                },
+            ]
+        );
     });
 });

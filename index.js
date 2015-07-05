@@ -5,6 +5,7 @@ import data from './data.json';
 
 const BROWSERS_NAMES = {
     ie: 'Internet Explorer',
+    android: 'Android',
     // FIXME what should we do here? could be ipad or iphone
     ios_saf: 'iPhone',
     // following ones are not yet supported by saucelabs
