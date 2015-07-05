@@ -25,21 +25,24 @@ var eliminateDuplicates = function eliminateDuplicates(browsers) {
         var subgroup = browser.long_name;
         var version = browser.short_version;
         var device;
+        var browserName;
         if (browser.api_name === "iphone")  {
             osgroup = device = "iPhone Simulator";
         } else if (browser.api_name === "ipad") {
             osgroup = device =  "iPad Simulator";
         } else if (browser.api_name === "android") {
+            browserName = 'Android';
             osgroup = "Android " + browser.short_version;
+            device = browser.long_name;
             if (subgroup === "Android") {
                 subgroup += " " + version + " Emulator";
+                device = "Android Emulator";
             }
-            device = "Android Emulator";
         } else if (osgroup in OS_ID_TO_GROUPNAME) {
             osgroup = OS_ID_TO_GROUPNAME[osgroup];
         }
         set[JSON.stringify([osgroup, subgroup, version])] = {
-            browserName: browser.long_name,
+            browserName: browserName || browser.long_name,
             platform: OS_ID_TO_GROUPNAME[browser.os] || browser.os,
             version: version,
             deviceName: device || browser.device

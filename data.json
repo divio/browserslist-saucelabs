@@ -2513,285 +2513,285 @@
         "deviceName": "Android Emulator"
     },
     {
-        "browserName": "Motorola Droid 4 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.0",
-        "deviceName": "Android Emulator"
+        "deviceName": "Motorola Droid 4 Emulator"
     },
     {
-        "browserName": "Samsung Galaxy Note Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "2.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy Note Emulator"
     },
     {
-        "browserName": "Samsung Galaxy Note Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.0",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy Note Emulator"
     },
     {
-        "browserName": "Samsung Galaxy Note Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.1",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy Note Emulator"
     },
     {
-        "browserName": "Samsung Galaxy Tab 3 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.2",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy Tab 3 Emulator"
     },
     {
-        "browserName": "Samsung Galaxy Note 10.1 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.0",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy Note 10.1 Emulator"
     },
     {
-        "browserName": "Samsung Galaxy Note 10.1 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.1",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy Note 10.1 Emulator"
     },
     {
-        "browserName": "Google Nexus 7 HD Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "Google Nexus 7 HD Emulator"
     },
     {
-        "browserName": "Google Nexus 7 HD Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.4",
-        "deviceName": "Android Emulator"
+        "deviceName": "Google Nexus 7 HD Emulator"
     },
     {
-        "browserName": "HTC One X Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.0",
-        "deviceName": "Android Emulator"
+        "deviceName": "HTC One X Emulator"
     },
     {
-        "browserName": "HTC One X Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.1",
-        "deviceName": "Android Emulator"
+        "deviceName": "HTC One X Emulator"
     },
     {
-        "browserName": "Amazon Kindle Fire Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "2.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "Amazon Kindle Fire Emulator"
     },
     {
-        "browserName": "Motorola Photon Q 4G Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.0",
-        "deviceName": "Android Emulator"
+        "deviceName": "Motorola Photon Q 4G Emulator"
     },
     {
-        "browserName": "LG Nexus 4 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.2",
-        "deviceName": "Android Emulator"
+        "deviceName": "LG Nexus 4 Emulator"
     },
     {
-        "browserName": "LG Nexus 4 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "LG Nexus 4 Emulator"
     },
     {
-        "browserName": "LG Nexus 4 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.4",
-        "deviceName": "Android Emulator"
+        "deviceName": "LG Nexus 4 Emulator"
     },
     {
-        "browserName": "Samsung Galaxy S Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "2.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy S Emulator"
     },
     {
-        "browserName": "Samsung Galaxy Nexus Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.0",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy Nexus Emulator"
     },
     {
-        "browserName": "Samsung Galaxy Nexus Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.1",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy Nexus Emulator"
     },
     {
-        "browserName": "Samsung Galaxy Nexus Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.2",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy Nexus Emulator"
     },
     {
-        "browserName": "Samsung Galaxy Nexus Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy Nexus Emulator"
     },
     {
-        "browserName": "Samsung Galaxy Nexus Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.4",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy Nexus Emulator"
     },
     {
-        "browserName": "HTC Wildfire S Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "2.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "HTC Wildfire S Emulator"
     },
     {
-        "browserName": "Samsung Galaxy S3 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.1",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy S3 Emulator"
     },
     {
-        "browserName": "Samsung Galaxy S3 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.2",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy S3 Emulator"
     },
     {
-        "browserName": "Samsung Galaxy S3 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy S3 Emulator"
     },
     {
-        "browserName": "Samsung Galaxy S3 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.4",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy S3 Emulator"
     },
     {
-        "browserName": "Samsung Galaxy S2 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "2.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy S2 Emulator"
     },
     {
-        "browserName": "Samsung Galaxy S2 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.0",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy S2 Emulator"
     },
     {
-        "browserName": "Samsung Galaxy S2 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.1",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy S2 Emulator"
     },
     {
-        "browserName": "Samsung Galaxy S4 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.2",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy S4 Emulator"
     },
     {
-        "browserName": "Samsung Galaxy S4 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy S4 Emulator"
     },
     {
-        "browserName": "Samsung Galaxy S4 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.4",
-        "deviceName": "Android Emulator"
+        "deviceName": "Samsung Galaxy S4 Emulator"
     },
     {
-        "browserName": "Motorola Droid Razr Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "2.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "Motorola Droid Razr Emulator"
     },
     {
-        "browserName": "Motorola Droid Razr Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.0",
-        "deviceName": "Android Emulator"
+        "deviceName": "Motorola Droid Razr Emulator"
     },
     {
-        "browserName": "Motorola Droid Razr Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.1",
-        "deviceName": "Android Emulator"
+        "deviceName": "Motorola Droid Razr Emulator"
     },
     {
-        "browserName": "Google Nexus 7C Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.1",
-        "deviceName": "Android Emulator"
+        "deviceName": "Google Nexus 7C Emulator"
     },
     {
-        "browserName": "Google Nexus 7C Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.2",
-        "deviceName": "Android Emulator"
+        "deviceName": "Google Nexus 7C Emulator"
     },
     {
-        "browserName": "Google Nexus 7C Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "Google Nexus 7C Emulator"
     },
     {
-        "browserName": "Google Nexus 7C Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.4",
-        "deviceName": "Android Emulator"
+        "deviceName": "Google Nexus 7C Emulator"
     },
     {
-        "browserName": "LG Optimus 3D Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "2.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "LG Optimus 3D Emulator"
     },
     {
-        "browserName": "LG Optimus 3D Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.0",
-        "deviceName": "Android Emulator"
+        "deviceName": "LG Optimus 3D Emulator"
     },
     {
-        "browserName": "Sony Xperia X10 Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "2.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "Sony Xperia X10 Emulator"
     },
     {
-        "browserName": "Motorola Atrix HD Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.0",
-        "deviceName": "Android Emulator"
+        "deviceName": "Motorola Atrix HD Emulator"
     },
     {
-        "browserName": "Motorola Atrix HD Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.1",
-        "deviceName": "Android Emulator"
+        "deviceName": "Motorola Atrix HD Emulator"
     },
     {
-        "browserName": "HTC Evo 3D Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "2.3",
-        "deviceName": "Android Emulator"
+        "deviceName": "HTC Evo 3D Emulator"
     },
     {
-        "browserName": "HTC Evo 3D Emulator",
+        "browserName": "Android",
         "platform": "Linux",
         "version": "4.0",
-        "deviceName": "Android Emulator"
+        "deviceName": "HTC Evo 3D Emulator"
     }
 ]
