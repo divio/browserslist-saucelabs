@@ -4,9 +4,14 @@ import { assign, flatten, where } from 'lodash';
 import data from './data.json';
 
 const BROWSERS_NAMES = {
-    ie: 'internet explorer',
+    ie: 'Internet Explorer',
     // FIXME what should we do here? could be ipad or iphone
-    ios_saf: 'iphone',
+    ios_saf: 'iPhone',
+    // following ones are not yet supported by saucelabs
+    bb: 'Blackberry',
+    and_chr: 'Android Chrome',
+    and_ff: 'Android Firefox',
+    and_uc: 'Android UC',
 };
 
 const getCapabilities = (name, version) => {
