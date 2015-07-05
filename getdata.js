@@ -39,7 +39,7 @@ var eliminateDuplicates = function eliminateDuplicates(browsers) {
             osgroup = OS_ID_TO_GROUPNAME[osgroup];
         }
         set[JSON.stringify([osgroup, subgroup, version])] = {
-            browserName: browser.long_name.toLowerCase(),
+            browserName: browser.long_name,
             platform: OS_ID_TO_GROUPNAME[browser.os] || browser.os,
             version: version,
             deviceName: device || browser.device
