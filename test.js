@@ -160,5 +160,67 @@ describe('Browserslist Saucelabs', () => {
                 },
             ]
         );
+
+        deepEqual(
+            browsers2sauce({ browsers: browserslist(['chrome 42']) }),
+            [
+                {
+                    browserName: 'Google Chrome',
+                    version: '42',
+                    platform: 'OS X 10.6',
+                },
+            ]
+        );
+
+        deepEqual(
+            browsers2sauce({ browsers: browserslist(['chrome 42']), allPlatforms: true }),
+            [ 
+                { 
+                    browserName: 'Google Chrome',
+                    platform: 'OS X 10.6',
+                    version: '42' 
+                },
+                { 
+                    browserName: 'Google Chrome',
+                    platform: 'OS X 10.9',
+                    version: '42' 
+                },
+                { 
+                    browserName: 'Google Chrome',
+                    platform: 'Windows XP',
+                    version: '42' 
+                },
+                { 
+                    browserName: 'Google Chrome',
+                    platform: 'OS X 10.8',
+                    version: '42' 
+                },
+                { 
+                    browserName: 'Google Chrome',
+                    platform: 'Windows 8',
+                    version: '42' 
+                },
+                { 
+                    browserName: 'Google Chrome',
+                    platform: 'Linux',
+                    version: '42' 
+                },
+                { 
+                    browserName: 'Google Chrome',
+                    platform: 'Windows 8.1',
+                    version: '42' 
+                },
+                { 
+                    browserName: 'Google Chrome',
+                    platform: 'Windows 7',
+                    version: '42' 
+                },
+                { 
+                    browserName: 'Google Chrome',
+                    platform: 'OS X 10.10',
+                    version: '42' 
+                } 
+            ]
+        );
     });
 });

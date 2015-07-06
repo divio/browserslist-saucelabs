@@ -1,14 +1,19 @@
 // jshint esnext: true
 import browserslist from 'browserslist';
-import { assign, flatten, where } from 'lodash';
+import { assign, flatten, where, compact } from 'lodash';
 import data from './data.json';
 
 const BROWSERS_NAMES = {
     ie: 'Internet Explorer',
     android: 'Android',
+    chrome: 'Google Chrome',
+    firefox: 'Firefox',
+    safari: 'Safari',
+    opera: 'Opera',
     // FIXME what should we do here? could be ipad or iphone
     ios_saf: 'iPhone',
     // following ones are not yet supported by saucelabs
+    ie_mob: 'Internet Explorer Mobile',
     bb: 'Blackberry',
     and_chr: 'Android Chrome',
     and_ff: 'Android Firefox',
@@ -47,5 +52,5 @@ export default ({ browsers, allPlatforms } = { browsers: browserslist() }) => {
         return capabilities;
     });
 
-    return flatten(capabilities);
+    return compact(flatten(capabilities));
 };
