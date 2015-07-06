@@ -219,87 +219,87 @@
         "version": "5"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "27"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "28"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "31"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "32"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "33"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "34"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "35"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "36"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "37"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "38"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "39"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "40"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "41"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "42"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "43"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "beta"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.6",
         "version": "dev"
     },
@@ -518,77 +518,77 @@
         "version": "7"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "31"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "32"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "33"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "34"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "35"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "36"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "37"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "38"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "39"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "40"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "41"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "42"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "43"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "beta"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "dev"
     },
@@ -813,102 +813,102 @@
         "version": "dev"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "26"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "27"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "28"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "29"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "30"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "31"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "32"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "33"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "34"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "35"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "36"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "37"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "38"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "39"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "40"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "41"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "42"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "43"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "beta"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows XP",
         "version": "dev"
     },
@@ -954,87 +954,87 @@
         "version": "6"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "27"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "28"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "31"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "32"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "33"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "34"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "35"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "36"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "37"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "38"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "39"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "40"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "41"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "42"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "43"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "beta"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.8",
         "version": "dev"
     },
@@ -1259,102 +1259,102 @@
         "version": "dev"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "26"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "27"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "28"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "29"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "30"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "31"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "32"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "33"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "34"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "35"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "36"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "37"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "38"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "39"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "40"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "41"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "42"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "43"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "beta"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "dev"
     },
@@ -1554,102 +1554,102 @@
         "version": "dev"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "26"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "27"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "28"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "29"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "30"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "31"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "32"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "33"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "34"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "35"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "36"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "37"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "38"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "39"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "40"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "41"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "42"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "43"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "beta"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Linux",
         "version": "dev"
     },
@@ -1874,102 +1874,102 @@
         "version": "dev"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "26"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "27"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "28"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "29"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "30"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "31"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "32"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "33"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "34"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "35"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "36"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "37"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "38"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "39"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "40"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "41"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "42"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "43"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "beta"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "dev"
     },
@@ -2219,102 +2219,102 @@
         "version": "5"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "26"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "27"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "28"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "29"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "30"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "31"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "32"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "33"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "34"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "35"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "36"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "37"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "38"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "39"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "40"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "41"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "42"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "43"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "beta"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "dev"
     },
@@ -2420,47 +2420,47 @@
         "version": "8"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.10",
         "version": "37"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.10",
         "version": "38"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.10",
         "version": "39"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.10",
         "version": "40"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.10",
         "version": "41"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.10",
         "version": "42"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.10",
         "version": "43"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.10",
         "version": "beta"
     },
     {
-        "browserName": "Google Chrome",
+        "browserName": "Chrome",
         "platform": "OS X 10.10",
         "version": "dev"
     },

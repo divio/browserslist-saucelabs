@@ -6,7 +6,7 @@ import data from './data.json';
 const BROWSERS_NAMES = {
     ie: 'Internet Explorer',
     android: 'Android',
-    chrome: 'Google Chrome',
+    chrome: 'Chrome',
     firefox: 'Firefox',
     safari: 'Safari',
     opera: 'Opera',
