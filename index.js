@@ -39,6 +39,8 @@ const normalizeName = (name) => {
 export default ({ browsers, allPlatforms } = { allPlatforms: false }) => {
     if (!browsers || !browsers.length) {
         browsers = browserslist();
+    } else {
+        browsers = browserslist(browsers);
     }
 
     const capabilities = browsers.map((browser) => {
