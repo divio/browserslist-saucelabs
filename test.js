@@ -3,21 +3,18 @@ import browsers2sauce from './index';
 import { deepEqual } from 'assert';
 
 describe('Browserslist Saucelabs', () => {
-    it('parses browserslist input, outputs capabilities', () => {
+    it('parses browserslist input, outputs basic capabilities', () => {
         deepEqual(
-            browsers2sauce({ browsers: ['ie 9', 'iOS 8.3'] }),
+            browsers2sauce({ browsers: ['ie 9'] }),
             [
                 { browserName: 'Internet Explorer', version: '9', platform: 'Windows 7' },
-                { browserName: 'iPhone', version: '8.1', platform: 'OS X 10.10', deviceName: 'iPhone Simulator' },
             ]
-        ); });
+        );
 
-    it('outputs all available platforms for a browser if needed', () => {
         deepEqual(
-            browsers2sauce({ browsers: ['ie 11'], allPlatforms: true }),
+            browsers2sauce({ browsers: ['ios 8.3'] }),
             [
-                { browserName: 'Internet Explorer', version: '11', platform: 'Windows 8.1' },
-                { browserName: 'Internet Explorer', version: '11', platform: 'Windows 7' },
+                { browserName: 'iPhone', version: '8.1', platform: 'OS X 10.10', deviceName: 'iPhone Simulator' },
             ]
         );
 
@@ -27,6 +24,45 @@ describe('Browserslist Saucelabs', () => {
                 { browserName: 'Internet Explorer', version: '11', platform: 'Windows 8.1' },
                 { browserName: 'Internet Explorer', version: '10', platform: 'Windows 8' },
                 { browserName: 'Internet Explorer', version: '9', platform: 'Windows 7' },
+            ]
+        );
+
+        deepEqual(
+            browsers2sauce({ browsers: ['android 4.2'] }),
+            [
+                { browserName: 'Android', version: '4.2', platform: 'Linux', deviceName: 'Android Emulator' },
+            ]
+        );
+
+        deepEqual(
+            browsers2sauce({ browsers: ['chrome 42'] }),
+            [
+                { browserName: 'Google Chrome', version: '42', platform: 'OS X 10.6' },
+            ]
+        );
+
+        deepEqual(
+            browsers2sauce({ browsers: ['ff 38'] }),
+            [
+                { browserName: 'Firefox', version: '38', platform: 'OS X 10.6' },
+            ]
+        );
+    });
+
+    it('parses browserslist input, outputs all available capabilities if allPlatforms is true', () => {
+        deepEqual(
+            browsers2sauce({ browsers: ['ios 8.3'], allPlatforms: true }),
+            [
+                { browserName: 'iPhone', version: '8.1', platform: 'OS X 10.10', deviceName: 'iPhone Simulator' },
+                { browserName: 'iPad', version: '8.1', platform: 'OS X 10.10', deviceName: 'iPad Simulator' },
+            ]
+        );
+
+        deepEqual(
+            browsers2sauce({ browsers: ['ie 11'], allPlatforms: true }),
+            [
+                { browserName: 'Internet Explorer', version: '11', platform: 'Windows 8.1' },
+                { browserName: 'Internet Explorer', version: '11', platform: 'Windows 7' },
             ]
         );
 
@@ -44,13 +80,6 @@ describe('Browserslist Saucelabs', () => {
         );
 
         deepEqual(
-            browsers2sauce({ browsers: ['android 4.2'] }),
-            [
-                { browserName: 'Android', version: '4.2', platform: 'Linux', deviceName: 'Android Emulator' },
-            ]
-        );
-
-        deepEqual(
             browsers2sauce({ browsers: ['android 4.2'], allPlatforms: true }),
             [
                 { browserName: 'Android', version: '4.2', platform: 'Linux', deviceName: 'Android Emulator' },
@@ -60,13 +89,6 @@ describe('Browserslist Saucelabs', () => {
                 { browserName: "Android", deviceName: "Samsung Galaxy S3 Emulator", platform: "Linux", version: "4.2" },
                 { browserName: "Android", deviceName: "Samsung Galaxy S4 Emulator", platform: "Linux", version: "4.2", },
                 { browserName: "Android", deviceName: "Google Nexus 7C Emulator", platform: "Linux", version: "4.2" },
-            ]
-        );
-
-        deepEqual(
-            browsers2sauce({ browsers: ['chrome 42'] }),
-            [
-                { browserName: 'Google Chrome', version: '42', platform: 'OS X 10.6' },
             ]
         );
 
@@ -82,13 +104,6 @@ describe('Browserslist Saucelabs', () => {
                 { browserName: 'Google Chrome', platform: 'Windows 8.1', version: '42' },
                 { browserName: 'Google Chrome', platform: 'Windows 7', version: '42' },
                 { browserName: 'Google Chrome', platform: 'OS X 10.10', version: '42' }
-            ]
-        );
-
-        deepEqual(
-            browsers2sauce({ browsers: ['ff 38'] }),
-            [
-                { browserName: 'Firefox', version: '38', platform: 'OS X 10.6' },
             ]
         );
 
