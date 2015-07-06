@@ -6,7 +6,7 @@ import { deepEqual } from 'assert';
 describe('Browserslist Saucelabs', () => {
     it('parses browserslist input, outputs capabilities', () => {
         deepEqual(
-            browsers2sauce({ browsers: browserslist(['ie 9', 'iOS 8.3']) }), 
+            browsers2sauce({ browsers: browserslist(['ie 9', 'iOS 8.3']) }),
             [
                 { browserName: 'Internet Explorer', version: '9', platform: 'Windows 7' },
                 { browserName: 'iPhone', version: '8.1', platform: 'OS X 10.10', deviceName: 'iPhone Simulator' },
@@ -73,7 +73,7 @@ describe('Browserslist Saucelabs', () => {
 
         deepEqual(
             browsers2sauce({ browsers: browserslist(['chrome 42']), allPlatforms: true }),
-            [ 
+            [
                 { browserName: 'Google Chrome', platform: 'OS X 10.6', version: '42' },
                 { browserName: 'Google Chrome', platform: 'OS X 10.9', version: '42' },
                 { browserName: 'Google Chrome', platform: 'Windows XP', version: '42' },
@@ -82,7 +82,7 @@ describe('Browserslist Saucelabs', () => {
                 { browserName: 'Google Chrome', platform: 'Linux', version: '42' },
                 { browserName: 'Google Chrome', platform: 'Windows 8.1', version: '42' },
                 { browserName: 'Google Chrome', platform: 'Windows 7', version: '42' },
-                { browserName: 'Google Chrome', platform: 'OS X 10.10', version: '42' } 
+                { browserName: 'Google Chrome', platform: 'OS X 10.10', version: '42' }
             ]
         );
 

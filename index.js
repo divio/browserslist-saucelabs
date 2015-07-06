@@ -26,7 +26,7 @@ const getCapabilities = (name, version) => {
 
 const normalizeVersion = (version) => {
     // there could be version ranges.
-    // in this case we take the beginning of the range 
+    // in this case we take the beginning of the range
     // because it is most likely is going to exist on saucelabs
     // e.g. they don't have ios8.3 yet
     return version.split('-')[0] || version;
