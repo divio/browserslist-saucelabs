@@ -10,8 +10,9 @@ const BROWSERS_NAMES = {
     firefox: 'Firefox',
     safari: 'Safari',
     opera: 'Opera',
-    // FIXME what should we do here? could be ipad or iphone
-    ios_saf: 'iPhone',
+    // Special case, since for browserslist there is no difference
+    // but for us there is
+    ios_saf: ['iPhone', 'iPad'],
     // following ones are not yet supported by saucelabs
     ie_mob: 'Internet Explorer Mobile',
     bb: 'Blackberry',
@@ -20,8 +21,10 @@ const BROWSERS_NAMES = {
     and_uc: 'Android UC',
 };
 
-const getCapabilities = (name, version) => {
-    return where(data, { browserName: name, version: version });
+const getCapabilities = (names, version) => {
+    return flatten(flatten([names]).map((n) => {
+        return where(data, { browserName: n, version: version });
+    }));
 };
 
 const normalizeVersion = (version) => {
