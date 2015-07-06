@@ -8,7 +8,7 @@ Very opinionated, in some places also very silly.
 
 Not every browser that browserslist outputs is present on SauceLabs.
 
-Under the hooded uses amazing [Browserslist](https://github.com/ai/browserslist) library.
+Under the hood uses amazing [Browserslist](https://github.com/ai/browserslist) library.
 
 ## Usage
 
@@ -81,3 +81,5 @@ Result would be
 ```
 
 I'm not even talking about android, there's ton of them available.
+
+It also picks up `browserslist` file, so you don't have to pass an array of browsers.
