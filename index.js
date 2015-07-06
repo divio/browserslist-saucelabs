@@ -36,7 +36,11 @@ const normalizeName = (name) => {
     return BROWSERS_NAMES[name] || name;
 };
 
-export default ({ browsers, allPlatforms } = { browsers: browserslist() }) => {
+export default ({ browsers, allPlatforms } = { allPlatforms: false }) => {
+    if (!browsers || !browsers.length) {
+        browsers = browserslist();
+    }
+
     const capabilities = browsers.map((browser) => {
         let [name, version] = browser.split(' ');
 
