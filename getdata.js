@@ -9,9 +9,10 @@ var OS_ID_TO_GROUPNAME = {
     "Windows 2012": "Windows 8",
     "Windows 2012 R2": "Windows 8.1",
     "Mac 10.6": "OS X 10.6",
-    "Mac 10.8": "OS X 10.8",
-    "Mac 10.9": "OS X 10.9",
-    "Mac 10.10": "OS X 10.10"
+    "Mac 10.8": "OS X 10.8", // Mountain Lion
+    "Mac 10.9": "OS X 10.9", // Mavericks
+    "Mac 10.10": "OS X 10.10", // Yosemite
+    "Mac 10.11": "OS X 10.11" // El Capitan
 };
 
 // The platforms API lists multiple versions of platforms with
