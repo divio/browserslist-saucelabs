@@ -12,7 +12,7 @@ describe('Browserslist Saucelabs', () => {
         );
 
         deepEqual(
-            browsers2sauce({ browsers: ['ios 8.3'] }),
+            browsers2sauce({ browsers: ['ios 8.4'] }),
             [
                 { browserName: 'iPhone', version: '8.1', platform: 'OS X 10.10', deviceName: 'iPhone Simulator' },
             ]
@@ -51,7 +51,7 @@ describe('Browserslist Saucelabs', () => {
 
     it('parses browserslist input, outputs all available capabilities if allPlatforms is true', () => {
         deepEqual(
-            browsers2sauce({ browsers: ['ios 8.3'], allPlatforms: true }),
+            browsers2sauce({ browsers: ['ios 8.4'], allPlatforms: true }),
             [
                 { browserName: 'iPhone', version: '8.1', platform: 'OS X 10.10', deviceName: 'iPhone Simulator' },
                 { browserName: 'iPad', version: '8.1', platform: 'OS X 10.10', deviceName: 'iPad Simulator' },
