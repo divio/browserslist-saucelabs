@@ -1,595 +1,611 @@
 [
     {
         "browserName": "iPad",
-        "platform": "OS X 10.6",
-        "version": "4.3",
+        "platform": "OS X 10.9",
+        "version": "7.0",
         "deviceName": "iPad Simulator"
     },
     {
         "browserName": "iPad",
-        "platform": "OS X 10.6",
-        "version": "5.0",
+        "platform": "OS X 10.10",
+        "version": "7.1",
         "deviceName": "iPad Simulator"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "OS X 10.9",
+        "version": "4"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "5"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "6"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "7"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "8"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "9"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "10"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "11"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "12"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "13"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "14"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "15"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "16"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "17"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "18"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "19"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "20"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "21"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "22"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "23"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "24"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "25"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "26"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "27"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "28"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "29"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "30"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "31"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "32"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "33"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "34"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "35"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "36"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "37"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "38"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "39"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "beta"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "dev"
+    },
+    {
+        "browserName": "iPhone",
+        "platform": "OS X 10.9",
+        "version": "7.0",
+        "deviceName": "iPhone Simulator"
+    },
+    {
+        "browserName": "iPhone",
+        "platform": "OS X 10.10",
+        "version": "7.1",
+        "deviceName": "iPhone Simulator"
+    },
+    {
+        "browserName": "Safari",
+        "platform": "OS X 10.9",
+        "version": "7"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "31"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "32"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "33"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "34"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "35"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "36"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "37"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "38"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "39"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "40"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "41"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "42"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "43"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "beta"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "dev"
+    },
+    {
+        "browserName": "Internet Explorer",
+        "platform": "Windows 10",
+        "version": "11"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 10",
+        "version": "2"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 10",
+        "version": "3.0"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 10",
+        "version": "3.5"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 10",
         "version": "3.6"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "4"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "5"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "6"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "7"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "8"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "9"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "10"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "11"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "12"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "13"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "14"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "15"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "16"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "17"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "18"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "19"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "20"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "21"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "22"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "23"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "24"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "25"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "26"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "27"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "28"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "29"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "30"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "31"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "32"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "33"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "34"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "35"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "36"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "37"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "38"
     },
     {
         "browserName": "Firefox",
-        "platform": "OS X 10.6",
-        "version": "beta"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.6",
-        "version": "dev"
-    },
-    {
-        "browserName": "iPhone",
-        "platform": "OS X 10.6",
-        "version": "4.3",
-        "deviceName": "iPhone Simulator"
-    },
-    {
-        "browserName": "iPhone",
-        "platform": "OS X 10.6",
-        "version": "5.0",
-        "deviceName": "iPhone Simulator"
-    },
-    {
-        "browserName": "Safari",
-        "platform": "OS X 10.6",
-        "version": "5"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
-        "version": "27"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
-        "version": "28"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
-        "version": "31"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
-        "version": "32"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
-        "version": "33"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
-        "version": "34"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
-        "version": "35"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
-        "version": "36"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
-        "version": "37"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
-        "version": "38"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
+        "platform": "Windows 10",
         "version": "39"
     },
     {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
-        "version": "40"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
-        "version": "41"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
-        "version": "42"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
-        "version": "43"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
+        "browserName": "Firefox",
+        "platform": "Windows 10",
         "version": "beta"
     },
     {
-        "browserName": "Chrome",
-        "platform": "OS X 10.6",
+        "browserName": "Firefox",
+        "platform": "Windows 10",
         "version": "dev"
     },
     {
-        "browserName": "iPad",
-        "platform": "OS X 10.9",
-        "version": "7.0",
-        "deviceName": "iPad Simulator"
-    },
-    {
-        "browserName": "iPad",
-        "platform": "OS X 10.10",
-        "version": "7.1",
-        "deviceName": "iPad Simulator"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "4"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "5"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "6"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "7"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "8"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "9"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "10"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "11"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "12"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "13"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "14"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "15"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "16"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "17"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "18"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "19"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "20"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "21"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "22"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "23"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "24"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "25"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
+        "browserName": "Chrome",
+        "platform": "Windows 10",
         "version": "26"
     },
     {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
+        "browserName": "Chrome",
+        "platform": "Windows 10",
         "version": "27"
     },
     {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
+        "browserName": "Chrome",
+        "platform": "Windows 10",
         "version": "28"
     },
     {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
+        "browserName": "Chrome",
+        "platform": "Windows 10",
         "version": "29"
     },
     {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
+        "browserName": "Chrome",
+        "platform": "Windows 10",
         "version": "30"
     },
     {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "31"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "32"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "33"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "34"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "35"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "36"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "37"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "38"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "beta"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "OS X 10.9",
-        "version": "dev"
-    },
-    {
-        "browserName": "iPhone",
-        "platform": "OS X 10.9",
-        "version": "7.0",
-        "deviceName": "iPhone Simulator"
-    },
-    {
-        "browserName": "iPhone",
-        "platform": "OS X 10.10",
-        "version": "7.1",
-        "deviceName": "iPhone Simulator"
-    },
-    {
-        "browserName": "Safari",
-        "platform": "OS X 10.9",
-        "version": "7"
-    },
-    {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "31"
     },
     {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "32"
     },
     {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "33"
     },
     {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "34"
     },
     {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "35"
     },
     {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "36"
     },
     {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "37"
     },
     {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "38"
     },
     {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "39"
     },
     {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "40"
     },
     {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "41"
     },
     {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "42"
     },
     {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "43"
     },
     {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "beta"
     },
     {
         "browserName": "Chrome",
-        "platform": "OS X 10.9",
+        "platform": "Windows 10",
         "version": "dev"
     },
     {
@@ -801,6 +817,11 @@
         "browserName": "Firefox",
         "platform": "Windows XP",
         "version": "38"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows XP",
+        "version": "39"
     },
     {
         "browserName": "Firefox",
@@ -1251,6 +1272,11 @@
     {
         "browserName": "Firefox",
         "platform": "Windows 8",
+        "version": "39"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 8",
         "version": "beta"
     },
     {
@@ -1542,6 +1568,11 @@
         "browserName": "Firefox",
         "platform": "Linux",
         "version": "38"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Linux",
+        "version": "39"
     },
     {
         "browserName": "Firefox",
@@ -1862,6 +1893,11 @@
         "browserName": "Firefox",
         "platform": "Windows 8.1",
         "version": "38"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 8.1",
+        "version": "39"
     },
     {
         "browserName": "Firefox",
@@ -1977,6 +2013,286 @@
         "browserName": "Internet Explorer",
         "platform": "Windows 7",
         "version": "8"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "4"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "5"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "6"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "7"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "8"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "9"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "10"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "11"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "12"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "13"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "14"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "15"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "16"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "17"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "18"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "19"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "20"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "21"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "22"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "23"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "24"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "25"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "26"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "27"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "28"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "29"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "30"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "31"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "32"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "33"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "34"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "35"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "36"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "37"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "38"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "39"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "beta"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Mac 10.11",
+        "version": "dev"
+    },
+    {
+        "browserName": "Safari",
+        "platform": "Mac 10.11",
+        "version": "8.1"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "27"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "28"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "31"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "32"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "33"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "34"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "35"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "36"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "37"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "38"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "39"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "40"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "41"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "42"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "43"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "beta"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Mac 10.11",
+        "version": "dev"
     },
     {
         "browserName": "Internet Explorer",
@@ -2206,6 +2522,11 @@
     {
         "browserName": "Firefox",
         "platform": "Windows 7",
+        "version": "39"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 7",
         "version": "beta"
     },
     {
@@ -2352,6 +2673,18 @@
         "deviceName": "iPad Simulator"
     },
     {
+        "browserName": "iPad",
+        "platform": "OS X 10.10",
+        "version": "8.3",
+        "deviceName": "iPad Simulator"
+    },
+    {
+        "browserName": "iPad",
+        "platform": "OS X 10.10",
+        "version": "8.4",
+        "deviceName": "iPad Simulator"
+    },
+    {
         "browserName": "Firefox",
         "platform": "OS X 10.10",
         "version": "32"
@@ -2389,6 +2722,11 @@
     {
         "browserName": "Firefox",
         "platform": "OS X 10.10",
+        "version": "39"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.10",
         "version": "beta"
     },
     {
@@ -2412,6 +2750,18 @@
         "browserName": "iPhone",
         "platform": "OS X 10.10",
         "version": "8.2",
+        "deviceName": "iPhone Simulator"
+    },
+    {
+        "browserName": "iPhone",
+        "platform": "OS X 10.10",
+        "version": "8.3",
+        "deviceName": "iPhone Simulator"
+    },
+    {
+        "browserName": "iPhone",
+        "platform": "OS X 10.10",
+        "version": "8.4",
         "deviceName": "iPhone Simulator"
     },
     {
