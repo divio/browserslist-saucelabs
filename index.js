@@ -59,15 +59,15 @@ export default ({ browsers, allPlatforms = false } = {}) => {
     });
 
     return compact(flatten(capabilities)).sort((a,b) => {
-	var nameSort = naturalSort(a.browserName, b.browserName),
-	    versionSort = naturalSort(a.version, b.version),
-	    platformSort = naturalSort(a.platform, b.platform);
-	if (nameSort !== 0) {
-	    return -nameSort;
-	} else if (versionSort !== 0) {
-	    return -versionSort;
-	} else {
-	    return -platformSort;
-	}
+        let nameSort = naturalSort(a.browserName, b.browserName),
+            versionSort = naturalSort(a.version, b.version),
+            platformSort = naturalSort(a.platform, b.platform);
+        if (nameSort !== 0) {
+            return -nameSort;
+        } else if (versionSort !== 0) {
+            return -versionSort;
+        } else {
+            return -platformSort;
+        }
     });
 };
