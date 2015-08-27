@@ -52,13 +52,12 @@ var eliminateDuplicates = function eliminateDuplicates(browsers) {
         };
     });
 
-    var uniques = Object.keys(set).map(function (id) {
+    var uniques = Object.keys(set).sort().map(function (id) {
         return set[id];
     });
     return uniques;
 };
 
-console.log('Downloading all platforms data');
 request.get(API_ENDPOINT, function (err, result) {
     var browsers = JSON.parse(result.body);
     fs.writeFileSync('rawdata.json', JSON.stringify(browsers, null, 4));
