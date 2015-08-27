@@ -2,6 +2,7 @@
 import browserslist from 'browserslist';
 import { assign, flatten, where, compact } from 'lodash';
 import data from './data.json';
+import naturalSort from 'javascript-natural-sort';
 
 const BROWSERS_NAMES = {
     ie: 'Internet Explorer',
@@ -57,5 +58,16 @@ export default ({ browsers, allPlatforms = false } = {}) => {
         return capabilities;
     });
 
-    return compact(flatten(capabilities));
+    return compact(flatten(capabilities)).sort((a,b) => {
+        let nameSort = naturalSort(a.browserName, b.browserName),
+            versionSort = naturalSort(a.version, b.version),
+            platformSort = naturalSort(a.platform, b.platform);
+        if (nameSort !== 0) {
+            return -nameSort;
+        } else if (versionSort !== 0) {
+            return -versionSort;
+        } else {
+            return -platformSort;
+        }
+    });
 };
