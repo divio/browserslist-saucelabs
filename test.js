@@ -47,6 +47,13 @@ describe('Browserslist Saucelabs', () => {
                 { browserName: 'Firefox', version: '38', platform: 'Linux' },
             ]
         );
+
+        deepEqual(
+            browsers2sauce({ browsers: ['edge 12'] }),
+            [
+                { browserName: 'Microsoft Edge', version: '20', platform: 'Windows 10' },
+            ]
+        );
     });
 
     it('parses browserslist input, outputs all available capabilities if allPlatforms is true', () => {

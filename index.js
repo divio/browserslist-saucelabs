@@ -11,6 +11,7 @@ const BROWSERS_NAMES = {
     firefox: 'Firefox',
     safari: 'Safari',
     opera: 'Opera',
+    edge: 'Microsoft Edge',
     // Special case, since for browserslist there is no difference
     // but for us there is
     ios_saf: ['iPhone', 'iPad'],
@@ -28,7 +29,18 @@ const getCapabilities = (names, version) => {
     }));
 };
 
-const normalizeVersion = (version) => {
+const normalizeVersion = ({ version, name }) => {
+    // FIXME special case for ms edge
+    // https://github.com/Fyrd/caniuse/issues/1822
+    // so browser reports version 20 and on sauce labs it's 20
+    // but caniuse guys use UA string where it says it is in fact version 12
+    // (while common sense tells me that it is version 1 but anyways)
+    // we'll see how things turn out eventually but for now:
+    // ¯\_(ツ)_/¯
+    if (name === 'edge' && version === '12') {
+        version = '20';
+    }
+
     // there could be version ranges.
     // in this case we take the beginning of the range
     // because it is most likely is going to exist on saucelabs
@@ -46,7 +58,7 @@ export default ({ browsers, allPlatforms = false } = {}) => {
     const capabilities = browsers.map((browser) => {
         let [name, version] = browser.split(' ');
 
-        version = normalizeVersion(version);
+        version = normalizeVersion({ version, name });
         name = normalizeName(name);
 
         let capabilities = getCapabilities(name, version);

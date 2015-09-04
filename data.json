@@ -627,6 +627,11 @@
     {
         "browserName": "Chrome",
         "platform": "Linux",
+        "version": "45"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Linux",
         "version": "beta"
     },
     {
@@ -682,6 +687,11 @@
     {
         "browserName": "Chrome",
         "platform": "OS X 10.10",
+        "version": "45"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.10",
         "version": "beta"
     },
     {
@@ -772,6 +782,11 @@
     {
         "browserName": "Chrome",
         "platform": "OS X 10.11",
+        "version": "45"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.11",
         "version": "beta"
     },
     {
@@ -862,6 +877,11 @@
     {
         "browserName": "Chrome",
         "platform": "OS X 10.8",
+        "version": "45"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.8",
         "version": "beta"
     },
     {
@@ -938,6 +958,11 @@
         "browserName": "Chrome",
         "platform": "OS X 10.9",
         "version": "44"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
+        "version": "45"
     },
     {
         "browserName": "Chrome",
@@ -1922,6 +1947,11 @@
     {
         "browserName": "Chrome",
         "platform": "Windows 10",
+        "version": "45"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 10",
         "version": "beta"
     },
     {
@@ -2037,6 +2067,11 @@
     {
         "browserName": "Chrome",
         "platform": "Windows XP",
+        "version": "45"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows XP",
         "version": "beta"
     },
     {
@@ -2142,6 +2177,11 @@
     {
         "browserName": "Chrome",
         "platform": "Windows 7",
+        "version": "45"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
         "version": "beta"
     },
     {
@@ -2247,6 +2287,11 @@
     {
         "browserName": "Chrome",
         "platform": "Windows 8.1",
+        "version": "45"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 8.1",
         "version": "beta"
     },
     {
@@ -2348,6 +2393,11 @@
         "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "44"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 8",
+        "version": "45"
     },
     {
         "browserName": "Chrome",
