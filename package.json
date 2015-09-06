@@ -27,7 +27,6 @@
   },
   "dependencies": {
     "browserslist": "^1.0.0",
-    "javascript-natural-sort": "^0.7.1",
     "lodash": "^3.10.1"
   }
 }
