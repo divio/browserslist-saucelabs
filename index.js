@@ -11,7 +11,7 @@ const BROWSERS_NAMES = {
     firefox: 'Firefox',
     safari: 'Safari',
     opera: 'Opera',
-    edge: 'Microsoft Edge',
+    edge: 'MicrosoftEdge',
     // Special case, since for browserslist there is no difference
     // but for us there is
     ios_saf: ['iPhone', 'iPad'],

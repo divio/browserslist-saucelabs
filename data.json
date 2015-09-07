@@ -1977,7 +1977,7 @@
         "version": "11"
     },
     {
-        "browserName": "Microsoft Edge",
+        "browserName": "MicrosoftEdge",
         "platform": "Windows 10",
         "version": "20.10240"
     },
