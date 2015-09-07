@@ -1979,7 +1979,7 @@
     {
         "browserName": "Microsoft Edge",
         "platform": "Windows 10",
-        "version": "20"
+        "version": "20.10240.16384.0."
     },
     {
         "browserName": "Chrome",

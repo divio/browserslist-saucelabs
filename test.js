@@ -51,7 +51,7 @@ describe('Browserslist Saucelabs', () => {
         deepEqual(
             browsers2sauce({ browsers: ['edge 12'] }),
             [
-                { browserName: 'Microsoft Edge', version: '20', platform: 'Windows 10' },
+                { browserName: 'Microsoft Edge', version: '20.10240.16384.0.', platform: 'Windows 10' },
             ]
         );
     });

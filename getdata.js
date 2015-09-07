@@ -33,6 +33,8 @@ var eliminateDuplicates = function eliminateDuplicates(browsers) {
             osgroup = device =  "iPad Simulator";
         } else if (browser.long_name === "Google Chrome") {
             browserName = 'Chrome';
+        } else if (browser.long_name === "Microsoft Edge") {
+            version = browser.long_version;
         } else if (browser.api_name === "android") {
             browserName = 'Android';
             osgroup = "Android " + browser.short_version;

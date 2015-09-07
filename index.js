@@ -38,7 +38,7 @@ const normalizeVersion = ({ version, name }) => {
     // we'll see how things turn out eventually but for now:
     // ¯\_(ツ)_/¯
     if (name === 'edge' && version === '12') {
-        version = '20';
+        version = '20.10240.16384.0.';
     }
 
     // there could be version ranges.
