@@ -2,7 +2,7 @@
 import browserslist from 'browserslist';
 import { assign, flatten, where, compact } from 'lodash';
 import data from './data.json';
-import naturalSort from './utils/sort';
+import naturalSort from './utils/sort.es5';
 
 const BROWSERS_NAMES = {
     ie: 'Internet Explorer',
