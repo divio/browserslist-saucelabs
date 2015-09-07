@@ -34,7 +34,7 @@ var eliminateDuplicates = function eliminateDuplicates(browsers) {
         } else if (browser.long_name === "Google Chrome") {
             browserName = 'Chrome';
         } else if (browser.long_name === "Microsoft Edge") {
-            version = browser.long_version;
+            version = browser.long_version.substr(0, 8);
         } else if (browser.api_name === "android") {
             browserName = 'Android';
             osgroup = "Android " + browser.short_version;
