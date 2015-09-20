@@ -1699,11 +1699,6 @@
     {
         "browserName": "Firefox",
         "platform": "Windows 10",
-        "version": "2"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "Windows 10",
         "version": "20"
     },
     {
@@ -2474,11 +2469,6 @@
     {
         "browserName": "Firefox",
         "platform": "Windows 7",
-        "version": "2"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "Windows 7",
         "version": "20"
     },
     {
@@ -2724,11 +2714,6 @@
     {
         "browserName": "Firefox",
         "platform": "Windows 8",
-        "version": "2"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "Windows 8",
         "version": "20"
     },
     {
@@ -2890,16 +2875,6 @@
         "browserName": "Internet Explorer",
         "platform": "Windows 8",
         "version": "10"
-    },
-    {
-        "browserName": "Opera",
-        "platform": "Windows 8",
-        "version": "10"
-    },
-    {
-        "browserName": "Opera",
-        "platform": "Windows 8",
-        "version": "9"
     },
     {
         "browserName": "Firefox",
@@ -2954,11 +2929,6 @@
     {
         "browserName": "Firefox",
         "platform": "Windows 8.1",
-        "version": "2"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "Windows 8.1",
         "version": "20"
     },
     {
@@ -3120,16 +3090,6 @@
         "browserName": "Internet Explorer",
         "platform": "Windows 8.1",
         "version": "11"
-    },
-    {
-        "browserName": "Opera",
-        "platform": "Windows 8.1",
-        "version": "10"
-    },
-    {
-        "browserName": "Opera",
-        "platform": "Windows 8.1",
-        "version": "9"
     },
     {
         "browserName": "Firefox",
@@ -3184,11 +3144,6 @@
     {
         "browserName": "Firefox",
         "platform": "Windows XP",
-        "version": "2"
-    },
-    {
-        "browserName": "Firefox",
-        "platform": "Windows XP",
         "version": "20"
     },
     {
@@ -3370,16 +3325,6 @@
         "browserName": "Opera",
         "platform": "Windows XP",
         "version": "12"
-    },
-    {
-        "browserName": "Safari",
-        "platform": "Windows XP",
-        "version": "3"
-    },
-    {
-        "browserName": "Safari",
-        "platform": "Windows XP",
-        "version": "4"
     },
     {
         "browserName": "iPad",
