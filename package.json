@@ -1,14 +1,14 @@
 {
   "name": "browserslist-saucelabs",
-  "version": "0.1.11",
+  "version": "0.2.0",
   "description": "browserslist to saucelabs capabilities",
-  "main": "index.es5.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha --require babel/register",
     "tdd": "npm test -- --watch",
-    "transpile": "babel index.js > index.es5.js && babel utils/sort.js > utils/sort.es5.js",
+    "transpile": "babel lib --out-dir dist",
     "prepublish": "npm run transpile",
-    "postpublish": "rm *.es5.js && git push --follow-tags"
+    "postpublish": "rm -rf dist && git push --follow-tags"
   },
   "repository": {
     "type": "git",
