@@ -509,6 +509,11 @@
     {
         "browserName": "Firefox",
         "platform": "Linux",
+        "version": "41"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Linux",
         "version": "5"
     },
     {
@@ -1034,6 +1039,11 @@
     {
         "browserName": "Firefox",
         "platform": "OS X 10.10",
+        "version": "41"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.10",
         "version": "beta"
     },
     {
@@ -1205,6 +1215,11 @@
         "browserName": "Firefox",
         "platform": "OS X 10.11",
         "version": "40"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.11",
+        "version": "41"
     },
     {
         "browserName": "Firefox",
@@ -1409,6 +1424,11 @@
     {
         "browserName": "Firefox",
         "platform": "OS X 10.8",
+        "version": "41"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.8",
         "version": "5"
     },
     {
@@ -1605,6 +1625,11 @@
         "browserName": "Firefox",
         "platform": "OS X 10.9",
         "version": "40"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
+        "version": "41"
     },
     {
         "browserName": "Firefox",
@@ -1820,6 +1845,11 @@
         "browserName": "Firefox",
         "platform": "Windows 10",
         "version": "40"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 10",
+        "version": "41"
     },
     {
         "browserName": "Firefox",
@@ -2594,6 +2624,11 @@
     {
         "browserName": "Firefox",
         "platform": "Windows 7",
+        "version": "41"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 7",
         "version": "5"
     },
     {
@@ -2839,6 +2874,11 @@
     {
         "browserName": "Firefox",
         "platform": "Windows 8",
+        "version": "41"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 8",
         "version": "5"
     },
     {
@@ -3054,6 +3094,11 @@
     {
         "browserName": "Firefox",
         "platform": "Windows 8.1",
+        "version": "41"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 8.1",
         "version": "5"
     },
     {
@@ -3265,6 +3310,11 @@
         "browserName": "Firefox",
         "platform": "Windows XP",
         "version": "40"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows XP",
+        "version": "41"
     },
     {
         "browserName": "Firefox",
