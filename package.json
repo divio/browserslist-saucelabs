@@ -4,6 +4,7 @@
   "description": "browserslist to saucelabs capabilities",
   "main": "index.js",
   "scripts": {
+    "pretest": "npm run transpile",
     "test": "mocha --require babel/register",
     "tdd": "npm test -- --watch",
     "transpile": "babel lib --out-dir dist",
@@ -26,7 +27,7 @@
     "request": "^2.61.0"
   },
   "dependencies": {
-    "browserslist": "^1.0.0",
+    "browserslist": "^1.0.1",
     "lodash": "^3.10.1"
   }
 }
