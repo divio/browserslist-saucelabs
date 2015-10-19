@@ -1,6 +1,6 @@
 {
   "name": "browserslist-saucelabs",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "browserslist to saucelabs capabilities",
   "main": "index.js",
   "scripts": {
