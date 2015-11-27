@@ -291,7 +291,19 @@
         "browserName": "Android",
         "platform": "Linux",
         "version": "4.4",
+        "deviceName": "Amazon Kindle Fire HD 8.9 GoogleAPI Emulator"
+    },
+    {
+        "browserName": "Android",
+        "platform": "Linux",
+        "version": "4.4",
         "deviceName": "Android Emulator"
+    },
+    {
+        "browserName": "Android",
+        "platform": "Linux",
+        "version": "4.4",
+        "deviceName": "Android GoogleAPI Emulator"
     },
     {
         "browserName": "Android",
@@ -303,7 +315,19 @@
         "browserName": "Android",
         "platform": "Linux",
         "version": "4.4",
+        "deviceName": "Google Nexus 7 HD GoogleAPI Emulator"
+    },
+    {
+        "browserName": "Android",
+        "platform": "Linux",
+        "version": "4.4",
         "deviceName": "Google Nexus 7C Emulator"
+    },
+    {
+        "browserName": "Android",
+        "platform": "Linux",
+        "version": "4.4",
+        "deviceName": "Google Nexus 7C GoogleAPI Emulator"
     },
     {
         "browserName": "Android",
@@ -315,7 +339,19 @@
         "browserName": "Android",
         "platform": "Linux",
         "version": "4.4",
+        "deviceName": "LG Nexus 4 GoogleAPI Emulator"
+    },
+    {
+        "browserName": "Android",
+        "platform": "Linux",
+        "version": "4.4",
         "deviceName": "Samsung Galaxy Nexus Emulator"
+    },
+    {
+        "browserName": "Android",
+        "platform": "Linux",
+        "version": "4.4",
+        "deviceName": "Samsung Galaxy Nexus Google API Emulator"
     },
     {
         "browserName": "Android",
@@ -327,13 +363,31 @@
         "browserName": "Android",
         "platform": "Linux",
         "version": "4.4",
+        "deviceName": "Samsung Galaxy S3 GoogleAPI Emulator"
+    },
+    {
+        "browserName": "Android",
+        "platform": "Linux",
+        "version": "4.4",
         "deviceName": "Samsung Galaxy S4 Emulator"
+    },
+    {
+        "browserName": "Android",
+        "platform": "Linux",
+        "version": "4.4",
+        "deviceName": "Samsung Galaxy S4 GoogleAPI Emulator"
     },
     {
         "browserName": "Android",
         "platform": "Linux",
         "version": "5.0",
         "deviceName": "Android Emulator"
+    },
+    {
+        "browserName": "Android",
+        "platform": "Linux",
+        "version": "5.0",
+        "deviceName": "Android GoogleAPI Emulator"
     },
     {
         "browserName": "Android",
@@ -505,6 +559,11 @@
         "browserName": "Firefox",
         "platform": "Linux",
         "version": "41"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Linux",
+        "version": "42"
     },
     {
         "browserName": "Firefox",
@@ -1064,6 +1123,11 @@
     {
         "browserName": "Firefox",
         "platform": "OS X 10.10",
+        "version": "42"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.10",
         "version": "beta"
     },
     {
@@ -1244,6 +1308,11 @@
     {
         "browserName": "Firefox",
         "platform": "OS X 10.11",
+        "version": "42"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.11",
         "version": "5"
     },
     {
@@ -1279,7 +1348,7 @@
     {
         "browserName": "Safari",
         "platform": "OS X 10.11",
-        "version": "8.1"
+        "version": "9"
     },
     {
         "browserName": "Firefox",
@@ -1449,6 +1518,11 @@
     {
         "browserName": "Firefox",
         "platform": "OS X 10.8",
+        "version": "42"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.8",
         "version": "5"
     },
     {
@@ -1654,6 +1728,11 @@
     {
         "browserName": "Firefox",
         "platform": "OS X 10.9",
+        "version": "42"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
         "version": "5"
     },
     {
@@ -1855,6 +1934,11 @@
         "browserName": "Firefox",
         "platform": "Windows 10",
         "version": "41"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 10",
+        "version": "42"
     },
     {
         "browserName": "Firefox",
@@ -2644,6 +2728,11 @@
     {
         "browserName": "Firefox",
         "platform": "Windows 7",
+        "version": "42"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 7",
         "version": "5"
     },
     {
@@ -2879,6 +2968,11 @@
     {
         "browserName": "Firefox",
         "platform": "Windows 8",
+        "version": "42"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 8",
         "version": "5"
     },
     {
@@ -3084,6 +3178,11 @@
     {
         "browserName": "Firefox",
         "platform": "Windows 8.1",
+        "version": "42"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 8.1",
         "version": "5"
     },
     {
@@ -3289,6 +3388,11 @@
     {
         "browserName": "Firefox",
         "platform": "Windows XP",
+        "version": "42"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows XP",
         "version": "5"
     },
     {
@@ -3419,6 +3523,12 @@
         "deviceName": "iPad Simulator"
     },
     {
+        "browserName": "iPad",
+        "platform": "OS X 10.10",
+        "version": "9.2",
+        "deviceName": "iPad Simulator"
+    },
+    {
         "browserName": "iPhone",
         "platform": "OS X 10.8",
         "version": "5.1",
@@ -3488,6 +3598,12 @@
         "browserName": "iPhone",
         "platform": "OS X 10.10",
         "version": "9.1",
+        "deviceName": "iPhone Simulator"
+    },
+    {
+        "browserName": "iPhone",
+        "platform": "OS X 10.10",
+        "version": "9.2",
         "deviceName": "iPhone Simulator"
     }
 ]
