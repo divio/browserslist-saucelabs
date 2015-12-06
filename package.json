@@ -11,6 +11,7 @@
     "prepublish": "npm run transpile",
     "postpublish": "rm -rf dist && git push --follow-tags"
   },
+  "tonicExample": "require('browserslist-saucelabs')({ browsers: 'last 2 versions'/*, allPlatforms: true */});",
   "repository": {
     "type": "git",
     "url": "https://github.com/vxsx/browserslist-saucelabs.git"
