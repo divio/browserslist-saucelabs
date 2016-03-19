@@ -2,66 +2,6 @@
     {
         "browserName": "Android",
         "platform": "Linux",
-        "version": "2.3",
-        "deviceName": "Amazon Kindle Fire Emulator"
-    },
-    {
-        "browserName": "Android",
-        "platform": "Linux",
-        "version": "2.3",
-        "deviceName": "Android Emulator"
-    },
-    {
-        "browserName": "Android",
-        "platform": "Linux",
-        "version": "2.3",
-        "deviceName": "HTC Evo 3D Emulator"
-    },
-    {
-        "browserName": "Android",
-        "platform": "Linux",
-        "version": "2.3",
-        "deviceName": "HTC Wildfire S Emulator"
-    },
-    {
-        "browserName": "Android",
-        "platform": "Linux",
-        "version": "2.3",
-        "deviceName": "LG Optimus 3D Emulator"
-    },
-    {
-        "browserName": "Android",
-        "platform": "Linux",
-        "version": "2.3",
-        "deviceName": "Motorola Droid Razr Emulator"
-    },
-    {
-        "browserName": "Android",
-        "platform": "Linux",
-        "version": "2.3",
-        "deviceName": "Samsung Galaxy Note Emulator"
-    },
-    {
-        "browserName": "Android",
-        "platform": "Linux",
-        "version": "2.3",
-        "deviceName": "Samsung Galaxy S Emulator"
-    },
-    {
-        "browserName": "Android",
-        "platform": "Linux",
-        "version": "2.3",
-        "deviceName": "Samsung Galaxy S2 Emulator"
-    },
-    {
-        "browserName": "Android",
-        "platform": "Linux",
-        "version": "2.3",
-        "deviceName": "Sony Xperia X10 Emulator"
-    },
-    {
-        "browserName": "Android",
-        "platform": "Linux",
         "version": "4.0",
         "deviceName": "Amazon Kindle Fire HD 8.9 Emulator"
     },
@@ -573,6 +513,11 @@
     {
         "browserName": "Firefox",
         "platform": "Linux",
+        "version": "44"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Linux",
         "version": "5"
     },
     {
@@ -718,12 +663,7 @@
     {
         "browserName": "Chrome",
         "platform": "Linux",
-        "version": "beta"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Linux",
-        "version": "dev"
+        "version": "48"
     },
     {
         "browserName": "Opera",
@@ -788,6 +728,11 @@
     {
         "browserName": "Chrome",
         "platform": "OS X 10.10",
+        "version": "48"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.10",
         "version": "beta"
     },
     {
@@ -893,6 +838,11 @@
     {
         "browserName": "Chrome",
         "platform": "OS X 10.11",
+        "version": "48"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.11",
         "version": "beta"
     },
     {
@@ -998,12 +948,7 @@
     {
         "browserName": "Chrome",
         "platform": "OS X 10.8",
-        "version": "beta"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "OS X 10.8",
-        "version": "dev"
+        "version": "48"
     },
     {
         "browserName": "Chrome",
@@ -1093,6 +1038,11 @@
     {
         "browserName": "Chrome",
         "platform": "OS X 10.9",
+        "version": "48"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "OS X 10.9",
         "version": "beta"
     },
     {
@@ -1159,6 +1109,11 @@
         "browserName": "Firefox",
         "platform": "OS X 10.10",
         "version": "43"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.10",
+        "version": "44"
     },
     {
         "browserName": "Firefox",
@@ -1349,6 +1304,11 @@
         "browserName": "Firefox",
         "platform": "OS X 10.11",
         "version": "43"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.11",
+        "version": "44"
     },
     {
         "browserName": "Firefox",
@@ -1568,6 +1528,11 @@
     {
         "browserName": "Firefox",
         "platform": "OS X 10.8",
+        "version": "44"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.8",
         "version": "5"
     },
     {
@@ -1783,6 +1748,11 @@
     {
         "browserName": "Firefox",
         "platform": "OS X 10.9",
+        "version": "44"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "OS X 10.9",
         "version": "5"
     },
     {
@@ -1994,6 +1964,11 @@
         "browserName": "Firefox",
         "platform": "Windows 10",
         "version": "43"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 10",
+        "version": "44"
     },
     {
         "browserName": "Firefox",
@@ -2139,6 +2114,11 @@
         "browserName": "Chrome",
         "platform": "Windows 10",
         "version": "47"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 10",
+        "version": "48"
     },
     {
         "browserName": "Chrome",
@@ -2158,7 +2138,7 @@
     {
         "browserName": "MicrosoftEdge",
         "platform": "Windows 10",
-        "version": "20.10240"
+        "version": "13.10586"
     },
     {
         "browserName": "Chrome",
@@ -2273,130 +2253,130 @@
     {
         "browserName": "Chrome",
         "platform": "Windows XP",
+        "version": "48"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "26"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "27"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "28"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "29"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "30"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "31"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "32"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "33"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "34"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "35"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "36"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "37"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "38"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "39"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "40"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "41"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "42"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "43"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "44"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "45"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "46"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "47"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
+        "version": "48"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 7",
         "version": "beta"
     },
     {
         "browserName": "Chrome",
-        "platform": "Windows XP",
-        "version": "dev"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "26"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "27"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "28"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "29"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "30"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "31"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "32"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "33"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "34"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "35"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "36"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "37"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "38"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "39"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "40"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "41"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "42"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "43"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "44"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "45"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "46"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "47"
-    },
-    {
-        "browserName": "Chrome",
-        "platform": "Windows 7",
-        "version": "beta"
-    },
-    {
-        "browserName": "Chrome",
         "platform": "Windows 7",
         "version": "dev"
     },
@@ -2509,6 +2489,11 @@
         "browserName": "Chrome",
         "platform": "Windows 8.1",
         "version": "47"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 8.1",
+        "version": "48"
     },
     {
         "browserName": "Chrome",
@@ -2629,6 +2614,11 @@
         "browserName": "Chrome",
         "platform": "Windows 8",
         "version": "47"
+    },
+    {
+        "browserName": "Chrome",
+        "platform": "Windows 8",
+        "version": "48"
     },
     {
         "browserName": "Chrome",
@@ -2814,6 +2804,11 @@
         "browserName": "Firefox",
         "platform": "Windows 7",
         "version": "43"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 7",
+        "version": "44"
     },
     {
         "browserName": "Firefox",
@@ -3063,6 +3058,11 @@
     {
         "browserName": "Firefox",
         "platform": "Windows 8",
+        "version": "44"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 8",
         "version": "5"
     },
     {
@@ -3278,6 +3278,11 @@
     {
         "browserName": "Firefox",
         "platform": "Windows 8.1",
+        "version": "44"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows 8.1",
         "version": "5"
     },
     {
@@ -3489,6 +3494,11 @@
         "browserName": "Firefox",
         "platform": "Windows XP",
         "version": "43"
+    },
+    {
+        "browserName": "Firefox",
+        "platform": "Windows XP",
+        "version": "44"
     },
     {
         "browserName": "Firefox",
